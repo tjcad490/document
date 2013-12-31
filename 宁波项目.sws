@@ -7,10 +7,11 @@
 		<Model Expanded="Yes" ID="{B33FB4EE-A4B7-4731-A1AA-66F73D515382}" Loaded="No" Name="系统管理员" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="系统管理员用例图.oom"/>
 		<Model Expanded="Yes" ID="{EBEE22E1-0185-4DF2-B792-C4C2524DCECD}" Loaded="No" Name="应用提供商" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="应用提供商.oom"/>
 		<Model Expanded="Yes" ID="{E22789A5-BA11-4CE7-AFF5-C17558150AB5}" Loaded="No" Name="企业内部用户" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="企业个人用户.oom"/>
-		<Model Expanded="Yes" ID="{41476E54-CAA1-4388-A350-7F4C24F25C49}" Loaded="No" Name="企业管理员" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="企业管理员用力图.oom"/>
+		<Model ID="{41476E54-CAA1-4388-A350-7F4C24F25C49}" Loaded="No" Name="企业管理员" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="企业管理员用力图.oom"/>
 		<Model Expanded="Yes" ID="{4D67DC7B-CEFC-457D-96C4-5A332EE48457}" Loaded="No" Name="DataModel" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="LogicalDataModel_1.ldm"/>
 		<Model Expanded="Yes" ID="{98671949-051F-498C-9A00-512054359947}" Loaded="No" Name="功能模块" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="功能模块/功能模块.prj"/>
-		<Model Expanded="Yes" ID="{98671949-051F-498C-9A00-512054359947}" Name="功能模块" Selected="Yes" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="功能模块/功能模块.prj"/>
+		<Model Expanded="Yes" ID="{98671949-051F-498C-9A00-512054359947}" Loaded="No" Name="功能模块" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="功能模块/功能模块.prj"/>
+		<Model Expanded="Yes" ID="{4D67DC7B-CEFC-457D-96C4-5A332EE48457}" Name="DataModel" Selected="Yes" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="LogicalDataModel_1.ldm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
